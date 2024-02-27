@@ -1,2 +1,2 @@
-# Zenkart
-E-Commerce Website
+# e-commerce
+ E-Commerce Website
