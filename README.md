@@ -1,2 +1,1 @@
-# e-commerce
- E-Commerce Website
+"E-Commerce Website" is a full-featured online shopping platform built with Django. It includes product listings, user authentication, cart management, and checkout functionality. The project showcases essential e-commerce features, including a user-friendly interface, product categories, and order management, demonstrating web development and database integration skills."
